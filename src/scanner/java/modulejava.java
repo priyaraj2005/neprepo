@@ -16,6 +16,9 @@ public class Primecheck {
         scanner.close();
     }
 
+
+
+    //hi there is a commit hidden
     // Method to check if a number is prime
     public static boolean isPrime(int n) {
         if (n <= 1) {
